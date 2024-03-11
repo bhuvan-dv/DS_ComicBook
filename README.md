@@ -13,3 +13,6 @@ Assignment Resources:
 
 Canvas: Teams can find their teammates and access assignment-related materials on Canvas.
 Python Libraries: Teams may utilize various Python libraries for image processing, such as Pillow, OpenCV, and Matplotlib.
+
+
+[link to python notebook](https://drive.google.com/file/d/1qLtsORHgiyqnsX44TRyoJPR5T1_oU2bo/view?usp=sharing)
