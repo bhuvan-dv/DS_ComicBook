@@ -16,3 +16,5 @@ Python Libraries: Teams may utilize various Python libraries for image processin
 
 
 [link to python notebook](https://drive.google.com/file/d/1qLtsORHgiyqnsX44TRyoJPR5T1_oU2bo/view?usp=sharing)
+
+[link to folder structure](https://drive.google.com/file/d/1_r45WEcLR0Q6U-h1viO_4cQSQ4lEg0hz/view?usp=sharing)
